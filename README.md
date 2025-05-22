@@ -2,7 +2,6 @@
 
 A smart autocorrect and word suggestion system for users typing Braille using a standard QWERTY keyboard. This tool improves accessibility for visually impaired individuals by correcting mistyped Braille input in real time.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Contact](https://img.shields.io/badge/Contact-umeshyadav7988@gmail.com-red)](mailto:umeshyadav7988@gmail.com)
 
